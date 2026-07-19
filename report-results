@@ -1,0 +1,17 @@
+$nmap -sL 192.168.1.0/24
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-07-19 16:30 -0500
+Nmap scan report for amazon-cf9556589.lan (192.168.1.x)
+Nmap scan report for JohnSmith-s-iPhone5.lan (192.168.1.x)
+Nmap scan report for pi.hole (192.168.1.x)
+Nmap scan report for parrot.lan (192.168.1.x)
+Nmap scan report for kali.lan (192.168.1.1x)
+Nmap scan report for amazon-ae4f77f70.lan (192.168.1.5x)
+Nmap scan report for wazuh.lan (192.168.1.10x)
+Nmap scan report for wlan0.lan (192.168.1.11x)
+Nmap scan report for ESP_A47709.lan (192.168.1.12x)
+Nmap scan report for tailscale.lan (192.168.1.14x)
+Nmap scan report for CT101.lan (192.168.1.15x)
+Nmap scan report for CT100.lan (192.168.1.16x)
+Nmap scan report for iPhone.lan (192.168.1.19x)
+Nmap scan report for splunk-enterprise.lan (192.168.1.21x)
+Nmap done: 256 IP addresses (0 hosts up) scanned in 121.27 seconds
